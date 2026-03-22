@@ -1,4 +1,5 @@
-# clickjacking-advanced-guide
+
+<img width="980" height="551" alt="image" src="https://github.com/user-attachments/assets/9e83fb2e-6963-4f07-8c3f-35450b845478" />
 
 
 # 🛡️ Clickjacking – Complete Guide
@@ -257,18 +258,10 @@ Look for:
 * OAuth permission prompts
 * Account settings / payment features
 
----
 
-## 📜 License
 
 This project is for **educational and ethical security research purposes only**.
 
----
 
-If you want next level:
 
-* 🔥 Add **real bug bounty case studies**
-* 🚀 Add **automation scripts (Burp, JS payloads)**
-* 📄 Convert to **LinkedIn post + PDF**
 
-Just tell me 👍
